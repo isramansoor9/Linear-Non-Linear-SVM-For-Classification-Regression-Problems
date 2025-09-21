@@ -163,11 +163,11 @@ confusion matrix non linear
 
 linear decision boundary
 
-<img width="330" height="270" alt="image" src="https://github.com/user-attachments/assets/e2a88e16-fbcf-4523-9eb7-119563add7ac" />
+<img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/e2a88e16-fbcf-4523-9eb7-119563add7ac" />
 
 non linear decision boundary
 
-<img width="420" height="250" alt="image" src="https://github.com/user-attachments/assets/88ca5092-94ad-4c4a-9c61-a7356ed04356" />
+<img width="600" height="350" alt="image" src="https://github.com/user-attachments/assets/88ca5092-94ad-4c4a-9c61-a7356ed04356" />
 
 5.  **Cross-Validation**
     *   5-fold cross-validation is performed to assess the model's performance. This provides a more robust estimate of the model's performance by averaging the results across multiple splits of the data.
@@ -236,7 +236,7 @@ RBF SVM Regression R²: 1.00
 
 linear and non linear prediction
 
-<img width="600" height="250" alt="image" src="https://github.com/user-attachments/assets/9800f61f-63d5-4367-92ce-541996530b9a" />
+<img width="700" height="400" alt="image" src="https://github.com/user-attachments/assets/9800f61f-63d5-4367-92ce-541996530b9a" />
 
 4.  **Cross-Validation**
     *   5-fold cross-validation is performed to assess the model's performance.
